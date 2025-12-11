@@ -1,4 +1,4 @@
-# lab_po_flutter
+# app
 
 A new Flutter project.
 
@@ -14,3 +14,28 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# 📱 Lab_po_Flutter
+
+Учебный проект на Flutter. Приложение демонстрирует работу с интерфейсом, навигацией и обработкой данных.
+
+## 🚀 Возможности
+- Навигация между экранами
+- Работа с формами и списками
+- Поддержка адаптивного интерфейса
+
+## 🖼️ Скриншоты
+
+### Главное окно
+![Главное окно](screenshots/main_screen.png)
+
+### Список элементов
+![Список](screenshots/list_screen.png)
+
+---
+
+## ⚙️ Установка и запуск
+```bash
+git clone https://github.com/sttayfal/lab_po_flutter.git
+cd lab_po_flutter
+flutter pub get
+flutter run
