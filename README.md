@@ -26,16 +26,11 @@ samples, guidance on mobile development, and a full API reference.
 ## 🖼️ Скриншоты
 
 ### Главное окно
-![Главное окно](screenshots/main_screen.png)
+![Главное окно](screenshot/main_screen.png)
 
 ### Список элементов
-![Список](screenshots/list_screen.png)
+![Список](screenshot/list_screen.png)
 
 ---
 
-## ⚙️ Установка и запуск
-```bash
-git clone https://github.com/sttayfal/lab_po_flutter.git
-cd lab_po_flutter
-flutter pub get
-flutter run
+
