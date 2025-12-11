@@ -29,6 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Главное окно](screenshot/main_screen.png)
 
 ### Список элементов
-![Понравившиеся](screenshot/list_screen.png)
+![Понравившиеся](screenshot/list_screen.png) 
+
 
 ---
